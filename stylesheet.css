@@ -27,7 +27,7 @@ h1 {
     cursor: pointer;
 }
 
-.squares :nth-child(-n+4) p{
+.squares:nth-child(-n+4) p{
     font-family: "Helvetica Neue", Helvetica, Arial;
     font-size: 20em;
     font-weight: 900;
@@ -40,7 +40,7 @@ h1 {
 
 
 
-.squares :nth-child(1)  {
+.squares:nth-child(1)  {
     background-color: #fff;
 
 }
